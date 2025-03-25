@@ -69,10 +69,11 @@ const Footer = () => {
                   <span>gtechwatersolutions@gmail.com</span>
                 </p>
                 <div className="social-links">
-                  <a href="#" className="facebook"><FaFacebook /></a>
-                  <a href="#" className="twitter"><FaTwitter /></a>
-                  <a href="#" className="instagram"><FaInstagram /></a>
-                  <a href="#" className="linkedin"><FaLinkedin /></a>
+                  <a href="https://www.facebook.com/Gtechwatersolutions/" className="facebook"><FaFacebook /></a>
+                  <a href="https://x.com/Gtechwater" className="twitter"><FaTwitter /></a>
+                  <a href="https://www.instagram.com/gtech_watersolutions/?hl=en" className="instagram"><FaInstagram /></a>
+                  <a href="https://www.linkedin.com/company/106879992/admin/dashboard/" className="linkedin"><FaLinkedin /></a>
+                  <a href="https://www.youtube.com/@GTech-e1q" className="youtube"><FaYoutube /></a>
                 </div>
               </div>
             </div>
